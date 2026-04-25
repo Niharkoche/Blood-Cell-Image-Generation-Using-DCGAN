@@ -66,7 +66,7 @@ Over time, the generator improves and produces increasingly realistic images.
 
 You can directly run this project on Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19uCxCEIH8C05uNhPXJFF8Rt97aiSOM1z?usp=sharing)
 
 ---
 
